@@ -39,6 +39,10 @@
 
 
 
+<p align="center">Redes Sociais </p>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/vinicius-lucas-silvestre-5a5556174/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
