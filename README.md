@@ -19,7 +19,7 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/vinicius-silvestre/vinicius-silvestre/blob/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
