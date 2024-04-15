@@ -1,7 +1,6 @@
 ###
 
-<p align="center">Git: Vinicius Lucas Silvestre</p>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2985F7&random=false&width=435&lines=Bem-vindo+ao+meu+perfil+no+GitHub!)](https://git.io/typing-svg)
 ###
 
 
