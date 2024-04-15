@@ -42,9 +42,9 @@
 ###
 
 <div align="left">
-  [![Static Badge](https://img.shields.io/badge/E--mail-black?style=for-the-badge&logo=microsoft-outlook&logoColor=blue&link=mailto%3Avinicius.silvestre1%40hotmail.com)]
-  [![Static Badge](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn&logoColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvinicius-lucas-silvestre-5a5556174%2F)]
-  [![Static Badge](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=blue&link=https%3A%2F%2Fwww.instagram.com%2Fvinicius.silvestre1%2F)]
+<img alt="Static Badge" src="https://img.shields.io/badge/E--mail-black?style=for-the-badge&logo=microsoft-outlook&logoColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvinicius-lucas-silvestre-5a5556174%2F">
+<img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=LinkedIn&logoColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvinicius-lucas-silvestre-5a5556174%2F">
+<img alt="Static Badge" src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=blue&link=https%3A%2F%2Fwww.instagram.com%2Fvinicius.silvestre1%2F">
 
 </div>
 
