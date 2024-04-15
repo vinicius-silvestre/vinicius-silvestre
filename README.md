@@ -5,14 +5,7 @@
 
 
 
-###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false&username=vinicius-silvestre" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&username=vinicius-silvestre" height="150" alt="languages graph"  />
-</div>
-
-###
 
 ###
 
@@ -46,6 +39,14 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=LinkedIn&logoColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvinicius-lucas-silvestre-5a5556174%2F">
 <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=blue&link=https%3A%2F%2Fwww.instagram.com%2Fvinicius.silvestre1%2F">
 
+</div>
+
+###
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false&username=vinicius-silvestre" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&username=vinicius-silvestre" height="150" alt="languages graph"  />
 </div>
 
 ###
