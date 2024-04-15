@@ -37,17 +37,15 @@
 
 
 
-<p align="center">Redes Sociais </p>
+<p align="left">Redes Sociais </p>
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/vinicius-lucas-silvestre-5a5556174/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="vinicius.silvestre1@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
+<div align="left">
+  ![Static Badge](https://img.shields.io/badge/E--mail-black?style=for-the-badge&logo=microsoft-outlook&logoColor=blue&link=mailto%3Avinicius.silvestre1%40hotmail.com)
+  ![Static Badge](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn&logoColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvinicius-lucas-silvestre-5a5556174%2F)
+  ![Static Badge](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=blue&link=https%3A%2F%2Fwww.instagram.com%2Fvinicius.silvestre1%2F)
+
 </div>
 
 ###
